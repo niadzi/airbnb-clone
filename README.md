@@ -3,9 +3,9 @@
 [tests-link]: https://github.com/wrujel/monitor-tests
 
 [demo-link]: https://rental-app-delta.vercel.app/
-[status]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwrujel%2Fmonitor-repos%2Fmain%2Fdata%2Fairbnb-clone.json
-[deploy]: https://img.shields.io/github/deployments/wrujel/airbnb-clone/production?style=for-the-badge&label=Deploy
-[tests]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwrujel%2Fmonitor-tests%2Fmain%2Fdata%2Fairbnb-clone.json
+[status]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwrujel%2Fmonitor-repos%2Fmain%2Fdata%2Faudio-drip.json
+[deploy]: https://img.shields.io/github/deployments/wrujel/audio-drip/production?style=for-the-badge&label=Deploy
+[tests]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fwrujel%2Fmonitor-tests%2Fmain%2Fdata%2Faudio-drip.json
 
 <div align='center'>
 
